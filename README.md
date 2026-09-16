@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects
+# 📊 Data Analytics Project on Facebook Campaign
 
 This repository contains data analytics and marketing performance projects developed using Python, Pandas, Matplotlib, and Seaborn.
 
